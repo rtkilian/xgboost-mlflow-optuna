@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/RhysKilian/GitHub/xgboost-mlflow-optuna/mlruns/0/12ad4e0d694e42dfb388204e04fc9178/artifacts
+end_time: 1649139865655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: 12ad4e0d694e42dfb388204e04fc9178
+run_uuid: 12ad4e0d694e42dfb388204e04fc9178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649139865612
+status: 4
+tags: []
+user_id: RhysKilian
